@@ -3,7 +3,7 @@
 </p>
 
 # Reginaldo Florêncio Dias
-<sub>*Analista de Sistemas e Cientista de Dados</sub>
+<sub>*Analista de sistemas e Cientista de Dados</sub>
 
 Sou graduado pela Universidade Estadual de Maringá (UEM) Bacharel em Informática (2000/2005).
 
